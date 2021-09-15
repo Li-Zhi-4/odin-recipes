@@ -6,3 +6,4 @@ Description: A recipe website using basic HTML learned from The Odin Project. Th
 - p, h1-h6, em, and strong tags
 - Ordered/unordered lists and list items
 - Absolute/relative links and images
+- Basic file structure of a website
