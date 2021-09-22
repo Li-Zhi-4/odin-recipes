@@ -7,3 +7,10 @@ Description: A recipe website using basic HTML learned from The Odin Project. Th
 - Ordered/unordered lists and list items
 - Absolute/relative links and images
 - Basic file structure of a website
+
+Additionally, adding a few CSS elements such as:
+- background-color
+- color
+- img size
+- font-family
+- text-align
